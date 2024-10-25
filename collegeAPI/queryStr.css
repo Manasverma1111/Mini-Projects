@@ -1,0 +1,9 @@
+h2 {
+    text-decoration: underline;
+    color: brown;
+}
+
+.clgList {
+    border: 2px solid brown;
+    border-radius: 4px;
+}
